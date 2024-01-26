@@ -1,0 +1,45 @@
+n=int(input())
+if n==1:
+  print("bir")
+elif n==2:
+  print("ikki")
+elif n==3:
+  print("uch")
+elif n==4:
+  print("to'rt")
+elif n==5:
+  print("besh")
+elif n==6:
+  print("olti")
+elif n==7:
+  print("yetti")
+elif n==8:
+  print("sakkiz")
+elif n==9:
+  print("to’qqiz")
+elif n==10:
+  print("o’n")
+elif n==20:
+  print("yigirma")
+elif n==30:
+  print("o’ttiz")
+elif n==40:
+  print("qirq")
+elif n==50:
+  print("ellik")
+elif n==60:
+  print("oltmish")
+elif n==70:
+  print("yetmish")
+elif n==80:
+  print("sakson")
+elif n==90:
+  print("to'qson")
+elif n==100:
+  print("bir yuz")
+elif n==1000:
+  print("bir ming")
+elif n==1000000:
+  print("bir million")
+elif n==1000000000:
+  print("bir milliard")
